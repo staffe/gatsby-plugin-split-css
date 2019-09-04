@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-plugin-split-css",
+  "description": "Split css",
+  "version": "1.0.0",
+  "author": "staffe (https://github.com/staffe)",
+  "license": "MIT",
+  "repository": "https://github.com/staffe/gatsby-plugin-split-css",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "css",
+    "sass",
+    "scss",
+    "split",
+    "global"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "gatsby": "2.x"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  }
+}
