@@ -17,7 +17,7 @@ __Note:__ add this plugin after all PostCSS/Sass/Less plugins.
 
 module.exports = {
   plugins: [
-    `gastby-plugn-split-css`
+    `gatsby-plugin-split-css`
   ],
 }
 ```
