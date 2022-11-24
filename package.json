@@ -16,7 +16,7 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "gatsby": "3.x || 4.x"
+    "gatsby": "3.x || 4.x || 5.x"
   },
   "scripts": {
     "postversion": "git push && git push --tags"
